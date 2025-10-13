@@ -76,6 +76,18 @@ if __name__ == "__main__":
 
     while True:
         print("Escutando...")
+
         comando = microfone().lower()
+
+        if 'como você está' in comando:
+            falar('Não é da sua conta.    estou bem')
+            falar('o que posso fazer para ajudá-lo. mestre')
+
+        elif 'hora' in comando:
+            tempo()
+
+        elif 'data' in comando:
+            data()
+
 
 
