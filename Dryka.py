@@ -89,5 +89,8 @@ if __name__ == "__main__":
         elif 'data' in comando:
             data()
 
+        elif 'adeus' in comando:
+            falar("adeus mestre!")
+            quit
 
 
