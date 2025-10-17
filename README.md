@@ -1,4 +1,4 @@
-# D.R.Y.K.A. 🤖
+# D.R.Y.K.A. 🤖 1.0
 
 **D.R.Y.K.A.** – *Directly Real Yet Kindly Annoying*  
 *"Direta, realista, mas gentilmente irritante."*
