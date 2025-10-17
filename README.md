@@ -3,7 +3,7 @@
 > **D.R.Y.K.A** — *Directly Real Yet Kindly Annoying*  
 > “Direta, realista… mas gentilmente irritante.”
 
-Uma assistente pessoal totalmente em **Python**, criada por **Piettro Silva**, capaz de **falar**, **entender comandos de voz** em português e **executar tarefas simples** com um toque de personalidade.
+Uma assistente pessoal totalmente em **Python**, criada por **Piettro Silva Dos Santos**, capaz de **falar**, **entender comandos de voz** em português e **executar tarefas simples** com um toque de personalidade.
 
 ---
 
